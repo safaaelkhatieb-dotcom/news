@@ -1,0 +1,36 @@
+name: news_app
+description: "A Flutter news application."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+  flutter_native_splash: ^2.4.7
+  http: ^1.5.0
+  cached_network_image: ^3.4.1
+  provider: ^6.1.5+1
+  iconsx_plus: ^1.0.1
+  webview_flutter: ^4.13.0
+  webview_flutter_android: ^4.10.1
+  url_launcher: ^6.3.2
+  infinite_scroll_pagination: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/images/
+
+  uses-material-design: true

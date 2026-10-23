@@ -1,0 +1,16 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/Group 1 (6).png
+  image_dark: assets/images/Group 1 (5).png
+  branding: assets/images/Group 2.png
+  branding_dark: assets/images/news_branding.png
+  color_dark: "#171717"
+
+
+  android_12:
+    image: assets/images/Group 1 (6).png
+    image_dark: assets/images/Group 1 (5).png
+    color: "#FFFFFF"
+    branding: assets/images/Group 2.png
+    branding_dark: assets/images/news_branding.png
+    color_dark: "#171717"
